@@ -18,6 +18,14 @@
 	background-color: #222222 !important;
 }
 
+.next-steps li {
+	padding-bottom: 15px;
+}
+
+.force-center {
+	margin: auto !important;
+}
+
 .heading-font {
   font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
   font-weight: 200;
