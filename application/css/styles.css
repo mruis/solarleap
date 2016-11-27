@@ -11,6 +11,14 @@ Version 1.0
 	width: 100%;
 }
 
+.padding-top {
+	padding-top: 5px;
+}
+
+.small-line-height {
+	line-height: 100%;
+}
+
 body {
 	background: #f1f4f7;
 	padding-top: 50px;
